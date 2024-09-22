@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\bin\Debug\net8.0-windows\GeomeForms.exe
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\bin\Debug\net8.0-windows\GeomeForms.deps.json
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\bin\Debug\net8.0-windows\GeomeForms.runtimeconfig.json
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\bin\Debug\net8.0-windows\GeomeForms.dll
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\bin\Debug\net8.0-windows\GeomeForms.pdb
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.Form1.resources
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.AssemblyInfo.cs
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.dll
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\refint\GeomeForms.dll
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.pdb
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\GeomeForms.genruntimeconfig.cache
+C:\Users\PC\Desktop\VSC1\GeomeForms\GeomeForms\obj\Debug\net8.0-windows\ref\GeomeForms.dll
